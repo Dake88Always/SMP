@@ -1,1 +1,1 @@
-# Schaumburg-Marketplace-1st-Sprint
+# SMP
